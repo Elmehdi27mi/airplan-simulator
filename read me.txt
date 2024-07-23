@@ -1,0 +1,22 @@
+1 - Dans MySQL, créez une base de données (BDD) nommée 'jee_projet'.
+<!> Le nom 'jee_projet' est obligatoire.
+
+2 - Accédez à la BDD 'jee_projet', puis importez le fichier 'jee_projet.sql'.
+<!> Vérifiez si les tables telles que 'aeroport', 'avion',... sont créées.
+
+3 - Décompressez le fichier 'airplane simulator.zip', ouvrez le dossier en tant que projet.
+Une fois le projet ouvert, accédez au terminal et exécutez les 2 commandes suivantes :
+	npm install -g serve
+	serve
+Ensuite, accédez au lien indiqué dans le terminal, qui est généralement : http://localhost:3000
+
+4 - Décompressez "volApp.zip", ouvrez le dossier en tant que projet et exécutez-le.
+<!> Assurez-vous que le serveur XAMPP pour MySQL est en cours d'exécution, sinon vous rencontrerez une erreur lors de l'exécution.
+
+
+
+Remarque : En raison de la taille importante de l'application React que nous avons partagée,
+ le dossier 'airplane simulator' contient la version prête pour la production et le déploiement de l'application. 
+Il ne comprend pas le code source original, les fichiers de configuration ni les dépendances de développement.
+Si vous avez besoin de modifier l'application:
+Nous avons mis à votre disposition le lien GitHub suivant : https://github.com/mrurespect/airplanesimulator.git
